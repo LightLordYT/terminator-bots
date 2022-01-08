@@ -1,0 +1,12 @@
+// ==UserScript==
+// @name         Terminator Bots V4
+// @namespace    http://tampermonkey.net/
+// @version      0.1
+// @description  try to take over the world!
+// @author       LightLord
+// @match        https://gats.io/
+// @icon         https://www.google.com/s2/favicons?domain=gats.io
+// @grant        none
+// ==/UserScript==
+
+const _0x185380=_0x1d1d;(function(_0x33b93e,_0x377b5c){const _0x4d3a89=_0x1d1d,_0xffddb6=_0x33b93e();while(!![]){try{const _0x517b95=parseInt(_0x4d3a89(0x75))/0x1+parseInt(_0x4d3a89(0x77))/0x2*(parseInt(_0x4d3a89(0x74))/0x3)+-parseInt(_0x4d3a89(0x7e))/0x4+parseInt(_0x4d3a89(0x7f))/0x5*(-parseInt(_0x4d3a89(0x78))/0x6)+parseInt(_0x4d3a89(0x79))/0x7*(parseInt(_0x4d3a89(0x7d))/0x8)+parseInt(_0x4d3a89(0x7a))/0x9*(-parseInt(_0x4d3a89(0x80))/0xa)+parseInt(_0x4d3a89(0x7c))/0xb;if(_0x517b95===_0x377b5c)break;else _0xffddb6['push'](_0xffddb6['shift']());}catch(_0x19353d){_0xffddb6['push'](_0xffddb6['shift']());}}}(_0x4192,0xcb43d));function _0x1d1d(_0x26ebf9,_0x354060){const _0x419255=_0x4192();return _0x1d1d=function(_0x1d1d4f,_0xf737d5){_0x1d1d4f=_0x1d1d4f-0x74;let _0x2de485=_0x419255[_0x1d1d4f];return _0x2de485;},_0x1d1d(_0x26ebf9,_0x354060);}function _0x4192(){const _0x1ca4cf=['45JXqygP','576940bkQCMV','open','4521lPmAux','985863QhhIFm','https://gats.io','658xlNqeY','184152sqmZVO','1113hqdMJH','126MFzxFF','href','16581004VZzihu','22256MNHLxt','6059404GYmCrl'];_0x4192=function(){return _0x1ca4cf;};return _0x4192();}let i;for(i=0x0;i<Infinity;i++){if(window['location'][_0x185380(0x7b)]==='https://gats.io')for(i=0x0;i<Infinity;i++){window[_0x185380(0x81)](_0x185380(0x76),'_blank');}}
